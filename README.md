@@ -16,7 +16,7 @@ pip install numpy pandas
 3. Run the script using:
 
 ```bash
-python script.py
+python convertnpytocsv.py
 ```
 
 ## Code Example
